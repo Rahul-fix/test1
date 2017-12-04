@@ -1,0 +1,1 @@
+checking wether a folder can be sync.
